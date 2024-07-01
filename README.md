@@ -258,4 +258,9 @@ Let's build a simple web application and deploy it using Terraform, Docker, Kube
 2. **Documentation:**
    - Document each step, configuration, and setup process.
 
-This guide provides a comprehensive step-by-step process for setting up a DevOps project on GCP using Ubuntu servers. If you have any specific questions or need further assistance, feel free to ask!
+This guide provides a comprehensive step-by-step process for setting up a DevOps project on GCP using Ubuntu servers. If you have any specific questions or need further assistance, feel free to ask! 
+
+Any errors:
+```
+https://chatgpt.com/share/c94826df-0d7a-4b56-8972-04d8f1318e66
+```
