@@ -1,0 +1,14 @@
+- name: Configure and deploy web application
+  hosts: all
+  become: yes
+  tasks:
+    - name: Install Docker
+      apt:
+        name: docker.io
+        state: present
+
+    - name: Deploy application
+      copy:
+        src: /path/to/app
+        dest: /var/www/app
+
